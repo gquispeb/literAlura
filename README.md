@@ -10,7 +10,7 @@
 - API Gutendex
 
 ## 🎯 Funcionalidades de la aplicación
-1. Buscar libro por título en la API y guardarlo
+1. Buscar libro por título y guardarlo en la base de datos
 2. Listar libros registrados
 3. Listar autores registrados
 4. Listar autores vivos en un año específico
