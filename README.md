@@ -26,5 +26,6 @@
 2. Asegúrate de tener PostgreSQL instalado y corriendo.
 3. Crea una base de datos llamada literalura.
 4. Edita application.properties y reemplaza con tus propias credenciales de acceso a PostgreSQL:
+
 spring.datasource.username=TU_USUARIO
 spring.datasource.password=TU_CONTRASEÑA
